@@ -5,7 +5,7 @@
 # Deck class stores list of cards and associated functions
 # Card class represents a single tarot card
 
-###     Deck Functions
+### Deck Functions
 # __init__()        Deck constructor
 # shuffle()         Shuffles current deck
 # reset()           returns drawn cards to deck and resets order and state
